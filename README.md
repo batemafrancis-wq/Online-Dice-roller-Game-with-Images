@@ -1,2 +1,38 @@
 # Online-Dice-roller-Game-with-Images
 This a dice roller web game made with HTML. CSS.  Java Script   Good for making HTML CSS JS projects 
+This is a Dice Roller Game made with 
+
+HTML ,CSS and Java script this is made for practice skills as a learning Aid 
+
+The HTML is the Skeleton of the Website 
+CSS is used to style the Web Game  
+Java Script adds the funtionality of the Web Game 
+
+
+To recreate 
+open a folder in for the program 
+open it in VS code 
+
+create to files for 
+
+index.HTML
+index.js 
+style.CSS
+
+
+In the folder you created for the project Download png images of dice 
+
+Let the images of the dice be 2D  Images and rename them accordingly to the number of dots of the dice according 
+
+For Example 
+1.png
+2.png ..... to 6 
+
+
+create a folder in the same folder for dice name it dice_images 
+
+paste the images in that folder 
+
+
+
+
