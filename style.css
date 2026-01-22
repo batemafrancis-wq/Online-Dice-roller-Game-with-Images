@@ -1,0 +1,63 @@
+/*  The styles for the div containers */
+#container{
+font-family: Arial ,sans-serif;
+text-align: center;
+font-size: 1.5rem;
+font-weight: bold;
+}
+
+/* The styles for the buttons */
+button{
+
+    font-size :1.5rem;
+    font-weight:bold;
+    padding:10px ,15px;
+    border-radius: 10px;
+    background-color: hsl(175, 100%, 28%);
+    color:white;
+border-style:none;
+}
+
+button:hover{
+
+ background-color: hsl(175, 100%, 34%);
+}
+
+
+button:active{
+
+   background-color: hsl(175, 100%, 38%);  
+}
+
+/* The styles for the input box */
+#inputtb{
+
+font-size: 1.5rem;
+border-radius: 10px;
+border-width: 1px;
+ border-color: rgb(10, 159, 245);
+ width: 100px;
+ text-align: center;
+
+
+}
+#diceresult{
+
+    margin:25px;
+}
+
+
+/*   The styles for the images used in the game   */
+#diceimg  img{
+
+width: 250px;
+border-radius: 30px;
+
+margin:5px;
+
+
+
+
+
+
+}

@@ -1,0 +1,36 @@
+
+
+<!Doctype Html >
+<html>
+<head>
+    <!--    This creates a title for the Web game in the browser -->  
+<title> Dice Web app with Images </title>
+
+<!--   This is a link to connect the style.css file to the html file -->
+<link rel="stylesheet"  href="style.css">
+</head>
+
+<body>
+<div id="container">
+    <!--   This is a heading in the web page for the game -->
+<h1>Dice Roller With images </h1>
+
+<!-- This makes a label for the input bar for the Game-->
+<label>Number of Dice </label>
+
+<!--   This creates the input box -->
+<input  type="number" id="inputtb" value="1" min="1">
+
+
+<!--   This creates the button -->
+<button id="btn" onclick="rolldice()"> Submit</button>
+<div id="diceresult"></div>
+<div  id="diceimg"></div>
+</div>
+
+
+<!-- This is the link for the java Script file it is a best practice to put it at the bottom of the body  .
+  For putting it in the header or above the code in the body can lead  to some error in the running of the code -->
+<script src="index.js"></script>
+</body>
+</html>
